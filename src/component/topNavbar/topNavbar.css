@@ -1,0 +1,6 @@
+.navBar {
+    width: 100vw;
+    display: flex;
+    min-height: 150px;
+    align-items: center;
+}

@@ -1,0 +1,22 @@
+.getInTouch {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+
+.getInTouchForm {
+    margin-top: 40px;
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+    width: 600px;
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: #0E1A2B;
+}
+
+.formFieldStyle {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
